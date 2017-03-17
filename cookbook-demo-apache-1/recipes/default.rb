@@ -2,7 +2,7 @@
 # Cookbook Name:: cookbook-demo-apache-1
 # Recipe:: default
 #
-# Copyright 2017, YOUR_COMPANY_NAME
+# Copyright 2017, mychef.com
 #
 # All rights reserved - Do Not Redistribute
 #
